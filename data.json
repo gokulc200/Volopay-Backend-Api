@@ -1,0 +1,1782 @@
+{
+  "data": [
+    {
+      "name": "Mixmax",
+      "budget_name": "Software subscription",
+      "owner_id": 1,
+      "spent": {
+        "value": 100,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "9 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Quickbooks",
+      "budget_name": "Software subscription",
+      "owner_id": 2,
+      "spent": {
+        "value": 50,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 250,
+        "currency": "SGD"
+      },
+      "card_type": "subscription",
+      "limit": 10,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 1",
+      "budget_name": "Budget 1",
+      "owner_id": 3,
+      "spent": {
+        "value": 20,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 500,
+        "currency": "USD"
+      },
+      "card_type": "credit",
+      "expiry": "15 Jun",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 2",
+      "budget_name": "Budget 2",
+      "owner_id": 4,
+      "spent": {
+        "value": 75,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "EUR"
+      },
+      "card_type": "debit",
+      "expiry": "30 Nov",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 3",
+      "budget_name": "Budget 3",
+      "owner_id": 5,
+      "spent": {
+        "value": 40,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "GBP"
+      },
+      "card_type": "prepaid",
+      "expiry": "18 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 4",
+      "budget_name": "Budget 4",
+      "owner_id": 6,
+      "spent": {
+        "value": 120,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 900,
+        "currency": "CAD"
+      },
+      "card_type": "virtual",
+      "expiry": "12 Aug",
+      "limit": 180,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 5",
+      "budget_name": "Budget 5",
+      "owner_id": 7,
+      "spent": {
+        "value": 90,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "AUD"
+      },
+      "card_type": "burner",
+      "expiry": "25 Sep",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 6",
+      "budget_name": "Budget 6",
+      "owner_id": 8,
+      "spent": {
+        "value": 200,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 7",
+      "budget_name": "Budget 7",
+      "owner_id": 9,
+      "spent": {
+        "value": 60,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "21 Jan",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 8",
+      "budget_name": "Budget 8",
+      "owner_id": 10,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "8 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+    {
+      "name": "Example 9",
+      "budget_name": "Budget 9",
+      "owner_id": 11,
+      "spent": {
+        "value": 80,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "16 Apr",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 10",
+      "budget_name": "Budget 10",
+      "owner_id": 12,
+      "spent": {
+        "value": 150,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "29 Jul",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 11",
+      "budget_name": "Budget 11",
+      "owner_id": 13,
+      "spent": {
+        "value": 110,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "5 Oct",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 12",
+      "budget_name": "Budget 12",
+      "owner_id": 14,
+      "spent": {
+        "value": 90,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 13",
+      "budget_name": "Budget 13",
+      "owner_id": 15,
+      "spent": {
+        "value": 70,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "10 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 14",
+      "budget_name": "Budget 14",
+      "owner_id": 16,
+      "spent": {
+        "value": 50,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "27 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 15",
+      "budget_name": "Budget 15",
+      "owner_id": 17,
+      "spent": {
+        "value": 80,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "20 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+    {
+      "name": "Example 16",
+      "budget_name": "Budget 16",
+      "owner_id": 18,
+      "spent": {
+        "value": 130,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "13 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+    {
+      "name": "Example 17",
+      "budget_name": "Budget 17",
+      "owner_id": 19,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "28 Sep",
+      "limit": 250,
+      "status": "active"
+    },
+    {
+      "name": "Example 18",
+      "budget_name": "Budget 18",
+      "owner_id": 20,
+      "spent": {
+        "value": 80,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+    {
+      "name": "Example 19",
+      "budget_name": "Budget 19",
+      "owner_id": 21,
+      "spent": {
+        "value": 60,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "18 Jan",
+      "limit": 100,
+      "status": "active"
+    },
+    {
+      "name": "Example 20",
+      "budget_name": "Budget 20",
+      "owner_id": 22,
+      "spent": {
+        "value": 40,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "7 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+    {
+      "name": "Example 21",
+      "budget_name": "Budget 21",
+      "owner_id": 23,
+      "spent": {
+        "value": 80,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "19 Apr",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 22",
+      "budget_name": "Budget 22",
+      "owner_id": 24,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "2 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 23",
+      "budget_name": "Budget 23",
+      "owner_id": 25,
+      "spent": {
+        "value": 100,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "7 Oct",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 24",
+      "budget_name": "Budget 24",
+      "owner_id": 26,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 25",
+      "budget_name": "Budget 25",
+      "owner_id": 27,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "6 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 26",
+      "budget_name": "Budget 26",
+      "owner_id": 28,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "22 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 27",
+      "budget_name": "Budget 27",
+      "owner_id": 29,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "22 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 28",
+      "budget_name": "Budget 28",
+      "owner_id": 30,
+      "spent": {
+        "value": 100,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "9 Jul",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 29",
+      "budget_name": "Budget 29",
+      "owner_id": 31,
+      "spent": {
+        "value": 70,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "15 Oct",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 30",
+      "budget_name": "Budget 30",
+      "owner_id": 32,
+      "spent": {
+        "value": 80,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 31",
+      "budget_name": "Budget 31",
+      "owner_id": 33,
+      "spent": {
+        "value": 60,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "14 Jan",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 32",
+      "budget_name": "Budget 32",
+      "owner_id": 34,
+      "spent": {
+        "value": 40,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "1 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 33",
+      "budget_name": "Budget 33",
+      "owner_id": 35,
+      "spent": {
+        "value": 80,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "24 Apr",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 34",
+      "budget_name": "Budget 34",
+      "owner_id": 36,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "16 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 35",
+      "budget_name": "Budget 35",
+      "owner_id": 37,
+      "spent": {
+        "value": 100,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "1 Oct",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 36",
+      "budget_name": "Budget 36",
+      "owner_id": 38,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 37",
+      "budget_name": "Budget 37",
+      "owner_id": 39,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "25 Jan",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 38",
+      "budget_name": "Budget 38",
+      "owner_id": 40,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "12 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 39",
+      "budget_name": "Budget 39",
+      "owner_id": 41,
+      "spent": {
+        "value": 80,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "25 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 40",
+      "budget_name": "Budget 40",
+      "owner_id": 42,
+      "spent": {
+        "value": 130,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "5 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 41",
+      "budget_name": "Budget 41",
+      "owner_id": 43,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "12 Sep",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 42",
+      "budget_name": "Budget 42",
+      "owner_id": 44,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 43",
+      "budget_name": "Budget 43",
+      "owner_id": 45,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "3 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 44",
+      "budget_name": "Budget 44",
+      "owner_id": 46,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "17 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 45",
+      "budget_name": "Budget 45",
+      "owner_id": 47,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "18 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 46",
+      "budget_name": "Budget 46",
+      "owner_id": 48,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "9 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 47",
+      "budget_name": "Budget 47",
+      "owner_id": 49,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "7 Sep",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 48",
+      "budget_name": "Budget 48",
+      "owner_id": 50,
+      "spent": {
+        "value": 80,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 49",
+      "budget_name": "Budget 49",
+      "owner_id": 51,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "10 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 50",
+      "budget_name": "Budget 50",
+      "owner_id": 52,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "28 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 51",
+      "budget_name": "Budget 51",
+      "owner_id": 53,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "30 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 52",
+      "budget_name": "Budget 52",
+      "owner_id": 54,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "14 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 53",
+      "budget_name": "Budget 53",
+      "owner_id": 55,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "23 Sep",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 54",
+      "budget_name": "Budget 54",
+      "owner_id": 56,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 55",
+      "budget_name": "Budget 55",
+      "owner_id": 57,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "20 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 56",
+      "budget_name": "Budget 56",
+      "owner_id": 58,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "4 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 57",
+      "budget_name": "Budget 57",
+      "owner_id": 59,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "12 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 58",
+      "budget_name": "Budget 58",
+      "owner_id": 60,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "21 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 59",
+      "budget_name": "Budget 59",
+      "owner_id": 61,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "5 Oct",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 60",
+      "budget_name": "Budget 60",
+      "owner_id": 62,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 61",
+      "budget_name": "Budget 61",
+      "owner_id": 63,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "15 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 62",
+      "budget_name": "Budget 62",
+      "owner_id": 64,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "20 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 63",
+      "budget_name": "Budget 63",
+      "owner_id": 65,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "9 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 64",
+      "budget_name": "Budget 64",
+      "owner_id": 66,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "26 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 65",
+      "budget_name": "Budget 65",
+      "owner_id": 67,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "9 Nov",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 66",
+      "budget_name": "Budget 66",
+
+      "owner_id": 68,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 67",
+      "budget_name": "Budget 67",
+      "owner_id": 69,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "8 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 68",
+      "budget_name": "Budget 68",
+      "owner_id": 70,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "13 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 69",
+      "budget_name": "Budget 69",
+      "owner_id": 71,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "15 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 70",
+      "budget_name": "Budget 70",
+      "owner_id": 72,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "30 Aug",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 71",
+      "budget_name": "Budget 71",
+      "owner_id": 73,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "11 Oct",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 72",
+      "budget_name": "Budget 72",
+      "owner_id": 74,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 73",
+      "budget_name": "Budget 73",
+      "owner_id": 75,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "25 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 74",
+      "budget_name": "Budget 74",
+      "owner_id": 76,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "2 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 75",
+      "budget_name": "Budget 75",
+      "owner_id": 77,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "17 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 76",
+      "budget_name": "Budget 76",
+      "owner_id": 78,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "12 Sep",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 77",
+      "budget_name": "Budget 77",
+      "owner_id": 79,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "15 Nov",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 78",
+      "budget_name": "Budget 78",
+      "owner_id": 80,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 79",
+      "budget_name": "Budget 79",
+      "owner_id": 81,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "18 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 80",
+      "budget_name": "Budget 80",
+      "owner_id": 82,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "25 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 81",
+      "budget_name": "Budget 81",
+      "owner_id": 83,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "21 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 82",
+      "budget_name": "Budget 82",
+      "owner_id": 84,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "5 Sep",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 83",
+      "budget_name": "Budget 83",
+      "owner_id": 85,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "19 Nov",
+      "limit": 250,
+      "status": "active"
+    },
+    {
+      "name": "Example 84",
+      "budget_name": "Budget 84",
+      "owner_id": 86,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 85",
+      "budget_name": "Budget 85",
+      "owner_id": 87,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "10 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 86",
+      "budget_name": "Budget 86",
+      "owner_id": 88,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "27 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 87",
+      "budget_name": "Budget 87",
+      "owner_id": 89,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "23 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 88",
+      "budget_name": "Budget 88",
+      "owner_id": 90,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "18 Sep",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 89",
+      "budget_name": "Budget 89",
+      "owner_id": 91,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "22 Nov",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 90",
+      "budget_name": "Budget 90",
+      "owner_id": 92,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 91",
+      "budget_name": "Budget 91",
+      "owner_id": 93,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "12 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 92",
+      "budget_name": "Budget 92",
+      "owner_id": 94,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "30 Dec",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 93",
+      "budget_name": "Budget 93",
+      "owner_id": 95,
+      "spent": {
+        "value": 60,
+        "currency": "CAD"
+      },
+      "available_to_spend": {
+        "value": 800,
+        "currency": "CAD"
+      },
+      "card_type": "prepaid",
+      "expiry": "26 Mar",
+      "limit": 150,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 94",
+      "budget_name": "Budget 94",
+      "owner_id": 96,
+      "spent": {
+        "value": 120,
+        "currency": "AUD"
+      },
+      "available_to_spend": {
+        "value": 1000,
+        "currency": "AUD"
+      },
+      "card_type": "virtual",
+      "expiry": "20 Sep",
+      "limit": 200,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 95",
+      "budget_name": "Budget 95",
+      "owner_id": 97,
+      "spent": {
+        "value": 90,
+        "currency": "SGD"
+      },
+      "available_to_spend": {
+        "value": 1200,
+        "currency": "SGD"
+      },
+      "card_type": "burner",
+      "expiry": "25 Nov",
+      "limit": 250,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 96",
+      "budget_name": "Budget 96",
+      "owner_id": 98,
+      "spent": {
+        "value": 70,
+        "currency": "USD"
+      },
+      "available_to_spend": {
+        "value": 1500,
+        "currency": "USD"
+      },
+      "card_type": "subscription",
+      "limit": 300,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 97",
+      "budget_name": "Budget 97",
+      "owner_id": 99,
+      "spent": {
+        "value": 50,
+        "currency": "EUR"
+      },
+      "available_to_spend": {
+        "value": 700,
+        "currency": "EUR"
+      },
+      "card_type": "credit",
+      "expiry": "14 Feb",
+      "limit": 100,
+      "status": "active"
+    },
+
+    {
+      "name": "Example 98",
+      "budget_name": "Budget 98",
+      "owner_id": 100,
+      "spent": {
+        "value": 30,
+        "currency": "GBP"
+      },
+      "available_to_spend": {
+        "value": 600,
+        "currency": "GBP"
+      },
+      "card_type": "debit",
+      "expiry": "5 Dec",
+      "limit": 200,
+      "status": "active"
+    }
+  ],
+  "page": 1,
+  "per_page": 10,
+  "total": 100
+}
